@@ -1,8 +1,7 @@
-const Button = () => {
+const Button = ({onClick}) => {
     return (
-      <div className="App">
-        Olá
-      </div>
+      <Button onClick={onClick}>
+      </Button>
     );
   }
   
