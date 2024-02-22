@@ -1,2 +1,1 @@
-Calculator made in JavaScript using React and Styled-Components.
-
+calculator app made in JavaScript using React and Styled-Components.
